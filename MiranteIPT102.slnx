@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="MiranteBlazorWebApp/MiranteBlazorWebApp.csproj" />
+  <Project Path="MiranteDomain/MiranteDomain.csproj" />
+  <Project Path="MiranteFramework/MiranteFramework.csproj" />
+  <Project Path="MiranteLibraryData/MiranteLibraryData.sqlproj" Id="9602398d-d977-487d-8a26-33c98462a8eb">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="MiranteMauiApp/MiranteMauiApp.csproj" Id="1f5d678f-0b00-4a41-9cf6-5373c61b79aa" />
+  <Project Path="MiranteRepository/MiranteRepository.csproj" />
+  <Project Path="MiranteWPF/MiranteWPF.csproj" />
+</Solution>

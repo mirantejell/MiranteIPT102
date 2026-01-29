@@ -1,0 +1,6 @@
+D:\MiranteIPT102\MiranteIPT102\MiranteLibraryData\bin\Debug\MiranteLibraryData.dacpac
+D:\MiranteIPT102\MiranteIPT102\MiranteLibraryData\bin\Debug\MiranteLibraryData.dll
+D:\MiranteIPT102\MiranteIPT102\MiranteLibraryData\bin\Debug\MiranteLibraryData.pdb
+D:\MiranteIPT102\MiranteIPT102\MiranteLibraryData\obj\Debug\MiranteLibraryData.sqlproj.AssemblyReference.cache
+D:\MiranteIPT102\MiranteIPT102\MiranteLibraryData\obj\Debug\MiranteLibraryData.dll
+D:\MiranteIPT102\MiranteIPT102\MiranteLibraryData\obj\Debug\MiranteLibraryData.pdb

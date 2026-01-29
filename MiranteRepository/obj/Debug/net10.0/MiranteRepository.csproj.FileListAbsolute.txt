@@ -1,0 +1,12 @@
+D:\MiranteIPT102\MiranteIPT102\MiranteRepository\bin\Debug\net10.0\MiranteRepository.deps.json
+D:\MiranteIPT102\MiranteIPT102\MiranteRepository\bin\Debug\net10.0\MiranteRepository.dll
+D:\MiranteIPT102\MiranteIPT102\MiranteRepository\bin\Debug\net10.0\MiranteRepository.pdb
+D:\MiranteIPT102\MiranteIPT102\MiranteRepository\obj\Debug\net10.0\MiranteRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiranteIPT102\MiranteIPT102\MiranteRepository\obj\Debug\net10.0\MiranteRepository.AssemblyInfoInputs.cache
+D:\MiranteIPT102\MiranteIPT102\MiranteRepository\obj\Debug\net10.0\MiranteRepository.AssemblyInfo.cs
+D:\MiranteIPT102\MiranteIPT102\MiranteRepository\obj\Debug\net10.0\MiranteRepository.csproj.CoreCompileInputs.cache
+D:\MiranteIPT102\MiranteIPT102\MiranteRepository\obj\Debug\net10.0\MiranteRepository.dll
+D:\MiranteIPT102\MiranteIPT102\MiranteRepository\obj\Debug\net10.0\refint\MiranteRepository.dll
+D:\MiranteIPT102\MiranteIPT102\MiranteRepository\obj\Debug\net10.0\MiranteRepository.pdb
+D:\MiranteIPT102\MiranteIPT102\MiranteRepository\obj\Debug\net10.0\ref\MiranteRepository.dll
+D:\MiranteIPT102\MiranteIPT102\MiranteRepository\obj\Debug\net10.0\MiranteRepository.csproj.AssemblyReference.cache

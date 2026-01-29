@@ -1,0 +1,15 @@
+D:\MiranteIPT102\MiranteIPT102\MiranteDomain\bin\Debug\net10.0\MiranteDomain.deps.json
+D:\MiranteIPT102\MiranteIPT102\MiranteDomain\bin\Debug\net10.0\MiranteDomain.dll
+D:\MiranteIPT102\MiranteIPT102\MiranteDomain\bin\Debug\net10.0\MiranteDomain.pdb
+D:\MiranteIPT102\MiranteIPT102\MiranteDomain\bin\Debug\net10.0\MiranteRepository.dll
+D:\MiranteIPT102\MiranteIPT102\MiranteDomain\bin\Debug\net10.0\MiranteRepository.pdb
+D:\MiranteIPT102\MiranteIPT102\MiranteDomain\obj\Debug\net10.0\MiranteDomain.csproj.AssemblyReference.cache
+D:\MiranteIPT102\MiranteIPT102\MiranteDomain\obj\Debug\net10.0\MiranteDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiranteIPT102\MiranteIPT102\MiranteDomain\obj\Debug\net10.0\MiranteDomain.AssemblyInfoInputs.cache
+D:\MiranteIPT102\MiranteIPT102\MiranteDomain\obj\Debug\net10.0\MiranteDomain.AssemblyInfo.cs
+D:\MiranteIPT102\MiranteIPT102\MiranteDomain\obj\Debug\net10.0\MiranteDomain.csproj.CoreCompileInputs.cache
+D:\MiranteIPT102\MiranteIPT102\MiranteDomain\obj\Debug\net10.0\MiranteD.9681CEDE.Up2Date
+D:\MiranteIPT102\MiranteIPT102\MiranteDomain\obj\Debug\net10.0\MiranteDomain.dll
+D:\MiranteIPT102\MiranteIPT102\MiranteDomain\obj\Debug\net10.0\refint\MiranteDomain.dll
+D:\MiranteIPT102\MiranteIPT102\MiranteDomain\obj\Debug\net10.0\MiranteDomain.pdb
+D:\MiranteIPT102\MiranteIPT102\MiranteDomain\obj\Debug\net10.0\ref\MiranteDomain.dll

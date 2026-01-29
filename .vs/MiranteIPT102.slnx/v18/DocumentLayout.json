@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MiranteIPT102\\MiranteIPT102\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7898DC09-D6CC-F324-0E36-FBC3FA59C314}|MiranteFramework\\MiranteFramework.csproj|d:\\miranteipt102\\miranteipt102\\miranteframework\\commands\\updatelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7898DC09-D6CC-F324-0E36-FBC3FA59C314}|MiranteFramework\\MiranteFramework.csproj|solutionrelative:miranteframework\\commands\\updatelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7898DC09-D6CC-F324-0E36-FBC3FA59C314}|MiranteFramework\\MiranteFramework.csproj|d:\\miranteipt102\\miranteipt102\\miranteframework\\commands\\createlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7898DC09-D6CC-F324-0E36-FBC3FA59C314}|MiranteFramework\\MiranteFramework.csproj|solutionrelative:miranteframework\\commands\\createlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7898DC09-D6CC-F324-0E36-FBC3FA59C314}|MiranteFramework\\MiranteFramework.csproj|d:\\miranteipt102\\miranteipt102\\miranteframework\\commands\\deletelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7898DC09-D6CC-F324-0E36-FBC3FA59C314}|MiranteFramework\\MiranteFramework.csproj|solutionrelative:miranteframework\\commands\\deletelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7898DC09-D6CC-F324-0E36-FBC3FA59C314}|MiranteFramework\\MiranteFramework.csproj|d:\\miranteipt102\\miranteipt102\\miranteframework\\extensions\\libraryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7898DC09-D6CC-F324-0E36-FBC3FA59C314}|MiranteFramework\\MiranteFramework.csproj|solutionrelative:miranteframework\\extensions\\libraryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7898DC09-D6CC-F324-0E36-FBC3FA59C314}|MiranteFramework\\MiranteFramework.csproj|d:\\miranteipt102\\miranteipt102\\miranteframework\\extensions\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7898DC09-D6CC-F324-0E36-FBC3FA59C314}|MiranteFramework\\MiranteFramework.csproj|solutionrelative:miranteframework\\extensions\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CC82A8-A369-6FCB-315B-31286BE5E726}|MiranteDomain\\MiranteDomain.csproj|d:\\miranteipt102\\miranteipt102\\mirantedomain\\queries\\igetlibrarybyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CC82A8-A369-6FCB-315B-31286BE5E726}|MiranteDomain\\MiranteDomain.csproj|solutionrelative:mirantedomain\\queries\\igetlibrarybyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7898DC09-D6CC-F324-0E36-FBC3FA59C314}|MiranteFramework\\MiranteFramework.csproj|d:\\miranteipt102\\miranteipt102\\miranteframework\\queries\\getlibrarybyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7898DC09-D6CC-F324-0E36-FBC3FA59C314}|MiranteFramework\\MiranteFramework.csproj|solutionrelative:miranteframework\\queries\\getlibrarybyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E661CA-93BA-6479-E5CA-EE439CF9FEF2}|MiranteRepository\\MiranteRepository.csproj|d:\\miranteipt102\\miranteipt102\\miranterepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E661CA-93BA-6479-E5CA-EE439CF9FEF2}|MiranteRepository\\MiranteRepository.csproj|solutionrelative:miranterepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateLibrary.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteFramework\\Commands\\UpdateLibrary.cs",
+              "RelativeDocumentMoniker": "MiranteFramework\\Commands\\UpdateLibrary.cs",
+              "ToolTip": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteFramework\\Commands\\UpdateLibrary.cs",
+              "RelativeToolTip": "MiranteFramework\\Commands\\UpdateLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:48:25.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateLibrary.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteFramework\\Commands\\CreateLibrary.cs",
+              "RelativeDocumentMoniker": "MiranteFramework\\Commands\\CreateLibrary.cs",
+              "ToolTip": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteFramework\\Commands\\CreateLibrary.cs",
+              "RelativeToolTip": "MiranteFramework\\Commands\\CreateLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:48:23.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteLibrary.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteFramework\\Commands\\DeleteLibrary.cs",
+              "RelativeDocumentMoniker": "MiranteFramework\\Commands\\DeleteLibrary.cs",
+              "ToolTip": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteFramework\\Commands\\DeleteLibrary.cs",
+              "RelativeToolTip": "MiranteFramework\\Commands\\DeleteLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:48:22.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryExtensions.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteFramework\\Extensions\\LibraryExtensions.cs",
+              "RelativeDocumentMoniker": "MiranteFramework\\Extensions\\LibraryExtensions.cs",
+              "ToolTip": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteFramework\\Extensions\\LibraryExtensions.cs",
+              "RelativeToolTip": "MiranteFramework\\Extensions\\LibraryExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:48:15.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringExtension.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteFramework\\Extensions\\StringExtension.cs",
+              "RelativeDocumentMoniker": "MiranteFramework\\Extensions\\StringExtension.cs",
+              "ToolTip": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteFramework\\Extensions\\StringExtension.cs",
+              "RelativeToolTip": "MiranteFramework\\Extensions\\StringExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:48:15.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGetLibraryById.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteDomain\\Queries\\IGetLibraryById.cs",
+              "RelativeDocumentMoniker": "MiranteDomain\\Queries\\IGetLibraryById.cs",
+              "ToolTip": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteDomain\\Queries\\IGetLibraryById.cs",
+              "RelativeToolTip": "MiranteDomain\\Queries\\IGetLibraryById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:48:07.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetLibraryById.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteFramework\\Queries\\GetLibraryById.cs",
+              "RelativeDocumentMoniker": "MiranteFramework\\Queries\\GetLibraryById.cs",
+              "ToolTip": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteFramework\\Queries\\GetLibraryById.cs",
+              "RelativeToolTip": "MiranteFramework\\Queries\\GetLibraryById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:47:57.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteRepository\\Repository.cs",
+              "RelativeDocumentMoniker": "MiranteRepository\\Repository.cs",
+              "ToolTip": "D:\\MiranteIPT102\\MiranteIPT102\\MiranteRepository\\Repository.cs",
+              "RelativeToolTip": "MiranteRepository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:46:38.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
